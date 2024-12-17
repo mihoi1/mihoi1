@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m interested in Electrical Engineering and programming. 
+🔭 I’m interested in Electrical Engineering, Electronics and programming. 
 
 🌱 I’m currently learning C++, Java, Python, and MATLAB.
 
